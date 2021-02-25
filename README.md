@@ -49,23 +49,23 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Date|Slides|Homework Due|
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2020-03-05|[Getting Started with Python]()||
-|2020-03-12|[Data Types in Python]()||
-|2020-03-19|[Data Structures in Python]()|[Homework 1]()|
-|2020-03-26|[Iterating Structures in Python]()||
-|2020-04-02|No Class, Children's Day|[Homework 2]()|
-|2020-04-09|[Being Functional with Python]()||
-|2020-04-16|[Midterm]()|[Homework 3]()|
-|2020-04-23|[Being Object-oriented with Python]()||
-|2020-04-30|[Using Modules and Libraries in Python]()|[Homework 4]()|
-|2020-05-07|[Array Computing with NumPy]()||
-|2020-05-14|[DataFrame Wrangling with Pandas]()||
-|2020-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
-|2020-05-28|[Data Visualization with Matplotlib]()||
-|2020-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
-|2020-06-11|No Class, Reading period|[Homework 6]()|
-|2020-06-18|[Final]()||
-|2020-06-25|No Class||
+|2021-03-05|[Getting Started with Python]()||
+|2021-03-12|[Data Types in Python]()||
+|2021-03-19|[Data Structures in Python]()|[Homework 1]()|
+|2021-03-26|[Iterating Structures in Python]()||
+|2021-04-02|No Class, Children's Day|[Homework 2]()|
+|2021-04-09|[Being Functional with Python]()||
+|2021-04-16|[Midterm]()|[Homework 3]()|
+|2021-04-23|[Being Object-oriented with Python]()||
+|2021-04-30|[Using Modules and Libraries in Python]()|[Homework 4]()|
+|2021-05-07|[Array Computing with NumPy]()||
+|2021-05-14|[DataFrame Wrangling with Pandas]()||
+|2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
+|2021-05-28|[Data Visualization with Matplotlib]()||
+|2021-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
+|2021-06-11|No Class, Reading period|[Homework 6]()|
+|2021-06-18|[Final]()||
+|2021-06-25|No Class||
 
 How to transform `slides.html` to PDF format?
 - Add `?print-pdf` at the end of `slides.html` making it `slides.html?print-pdf` and press enter
