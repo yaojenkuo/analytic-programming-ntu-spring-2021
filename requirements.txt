@@ -1,3 +1,4 @@
+RISE
 numpy
 pandas
 matplotlib

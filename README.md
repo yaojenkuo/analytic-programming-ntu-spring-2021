@@ -49,7 +49,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Date|Slides|Homework Due|
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Python]()||
+|2021-03-05|[Getting Started with Python](https://mybinder.org/v2/gh/yaojenkuo/analytic-programming-ntu-spring-2021/HEAD?filepath=notebooks%2F01-getting-started-with-python.ipynb)||
 |2021-03-12|[Data Structures in Python]()||
 |2021-03-19|[Iterating Structures in Python]()|[Homework 1]()|
 |2021-03-26|[Being Functional with Python]()||
