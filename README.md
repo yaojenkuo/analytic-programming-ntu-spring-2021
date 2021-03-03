@@ -23,7 +23,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 ## Logistics
 
 - Contact me: <yaojenkuo@ntu.edu.tw>
-- Schedule: Friday, 09:10-12:00
+- Schedule: Friday, 09:10-12:10
 - Location: 博雅 302
 
 ## Environments
@@ -50,9 +50,9 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
 |2021-03-05|[Getting Started with Python]()||
-|2021-03-12|[Data Types in Python]()||
-|2021-03-19|[Data Structures in Python]()|[Homework 1]()|
-|2021-03-26|[Iterating Structures in Python]()||
+|2021-03-12|[Data Structures in Python]()||
+|2021-03-19|[Iterating Structures in Python]()|[Homework 1]()|
+|2021-03-26|[Being Functional with Python]()||
 |2021-04-02|No Class, Children's Day|[Homework 2]()|
 |2021-04-09|[Being Functional with Python]()||
 |2021-04-16|[Midterm]()|[Homework 3]()|
