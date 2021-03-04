@@ -31,6 +31,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - Homeworks and exams will be distributed via [JupyterHub](https://jupyter.org/hub) and [nbgitpuller](https://github.com/jupyterhub/nbgitpuller).
 - Lectures will be delivered via non-persistent [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/).
 
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaojenkuo/analytic-programming-ntu-spring-2021/HEAD)
+
 ## Grading Policy
 
 |Task|Percentage|
@@ -49,7 +51,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |Date|Slides|Homework Due|
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Python](https://mybinder.org/v2/gh/yaojenkuo/analytic-programming-ntu-spring-2021/HEAD?filepath=notebooks%2F01-getting-started-with-python.ipynb)||
+|2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)||
 |2021-03-12|[Data Structures in Python]()||
 |2021-03-19|[Iterating Structures in Python]()|[Homework 1]()|
 |2021-03-26|[Being Functional with Python]()||
