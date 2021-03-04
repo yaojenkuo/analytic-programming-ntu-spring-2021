@@ -53,7 +53,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
 |2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)||
 |2021-03-12|[Data Structures in Python]()||
-|2021-03-19|[Iterating Structures in Python]()|[Homework 1]()|
+|2021-03-19|[Iterating Structures with Python]()|[Homework 1]()|
 |2021-03-26|[Being Functional with Python]()||
 |2021-04-02|No Class, Children's Day|[Homework 2]()|
 |2021-04-09|[Being Functional with Python]()||
