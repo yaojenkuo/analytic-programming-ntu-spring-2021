@@ -48,10 +48,10 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Calendar
 
-|Date|Slides|Homework Due|Course Video|
+|Date|Slides|Homework Due|Course Video Link|
 |----|------|------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
-|2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)|<https://youtu.be/EEOS8pFTJxI>|
+|2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)|[Course Video](https://youtu.be/EEOS8pFTJxI)|
 |2021-03-12|[Data Structures in Python]()||
 |2021-03-19|[Iterating Structures with Python]()|[Homework 1]()|
 |2021-03-26|[Being Functional with Python]()||
