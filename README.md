@@ -48,24 +48,24 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Calendar
 
-|Date|Slides|Video Link|Homework Due|
+|Date|Slides|Course Video|Homework Due|
 |----|------|------------|-----------------|
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
 |2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)|[Link](https://youtu.be/EEOS8pFTJxI)||
 |2021-03-12|[Data Structures in Python]()||
-|2021-03-19|[Iterating Structures with Python]()|[Homework 1]()|
+|2021-03-19|[Iterating Structures with Python]()||[Homework 1]()|
 |2021-03-26|[Being Functional with Python]()||
-|2021-04-02|No Class, Children's Day|[Homework 2]()|
+|2021-04-02|No Class, Children's Day||[Homework 2]()|
 |2021-04-09|[Being Functional with Python]()||
-|2021-04-16|[Midterm]()|[Homework 3]()|
+|2021-04-16|[Midterm]()||[Homework 3]()|
 |2021-04-23|[Being Object-oriented with Python]()||
-|2021-04-30|[Using Modules and Libraries in Python]()|[Homework 4]()|
+|2021-04-30|[Using Modules and Libraries in Python]()||[Homework 4]()|
 |2021-05-07|[Array Computing with NumPy]()||
 |2021-05-14|[DataFrame Wrangling with Pandas]()||
-|2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
+|2021-05-21|[DataFrame Wrangling with Pandas]()||[Homework 5]()|
 |2021-05-28|[Data Visualization with Matplotlib]()||
 |2021-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
-|2021-06-11|No Class, Reading period|[Homework 6]()|
+|2021-06-11|No Class, Reading period||[Homework 6]()|
 |2021-06-18|[Final]()||
 |2021-06-25|No Class||
 
