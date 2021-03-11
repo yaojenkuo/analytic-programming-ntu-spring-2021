@@ -53,7 +53,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |2021-02-26|[Introduction](slides/00-introduction.slides.html)||
 |2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)|[Link](https://youtu.be/EEOS8pFTJxI)||
 |2021-03-12|[Data Structures in Python](slides/02-data-structures-in-python.slides.html)||
-|2021-03-19|[Iterating Structures with Python]()||[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-03-19|[Control of Flow in Python]()||[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-03-26|[Being Functional with Python]()||
 |2021-04-02|No Class, Children's Day||[Homework 2]()|
 |2021-04-09|[Being Functional with Python]()||
