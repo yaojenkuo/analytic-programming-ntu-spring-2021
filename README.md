@@ -59,8 +59,8 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-03-26|[Being Functional with Python]()||
 |2021-04-02|No Class, Children's Day|[Homework 2]()|
 |2021-04-09|[Being Functional with Python]()||
-|2021-04-16|[Midterm]()|[Homework 3]()|
-|2021-04-23|[Being Object-oriented with Python]()||
+|2021-04-16|[Being Object-oriented with Python]()|[Homework 3]()|
+|2021-04-23|[Midterm]()||
 |2021-04-30|[Using Modules and Libraries in Python]()|[Homework 4]()|
 |2021-05-07|[Array Computing with NumPy]()||
 |2021-05-14|[DataFrame Wrangling with Pandas]()||
