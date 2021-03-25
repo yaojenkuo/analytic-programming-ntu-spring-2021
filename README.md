@@ -65,8 +65,8 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-05-07|[DataFrame Wrangling with Pandas]()||
 |2021-05-14|[Data Visualization with Matplotlib]()||
 |2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
-|2021-05-28|[Web Scraping with Requests and BeautifulSoup4]()||
-|2021-06-04|[]()||
+|2021-05-28|[DataFrame Wrangling with Pandas]()||
+|2021-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
 |2021-06-11|No Class, Reading period|[Homework 6]()|
 |2021-06-18|[Final]()||
 |2021-06-25|No Class||
