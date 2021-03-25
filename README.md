@@ -40,7 +40,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |[Midterm]()|15%|
 |[Final]()|25%|
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 2]()|10%|
+|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 3]()|10%|
 |[Homework 4]()|10%|
 |[Homework 5]()|10%|
@@ -57,16 +57,16 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-03-12|[Data Structures in Python](slides/02-data-structures-in-python.slides.html)||
 |2021-03-19|[Flow of Control in Python](slides/03-flow-of-control-in-python.slides.html)|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-03-26|[Being Functional with Python]()||
-|2021-04-02|No Class, Children's Day|[Homework 2]()|
-|2021-04-09|[Being Functional with Python]()||
-|2021-04-16|[Being Object-oriented with Python]()|[Homework 3]()|
+|2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-04-09|[Being Object-oriented with Python]()||
+|2021-04-16|[Using Modules and Libraries in Python]()|[Homework 3]()|
 |2021-04-23|[Midterm]()||
-|2021-04-30|[Using Modules and Libraries in Python]()|[Homework 4]()|
-|2021-05-07|[Array Computing with NumPy]()||
-|2021-05-14|[DataFrame Wrangling with Pandas]()||
+|2021-04-30|[Array Computing with NumPy]()|[Homework 4]()|
+|2021-05-07|[DataFrame Wrangling with Pandas]()||
+|2021-05-14|[Data Visualization with Matplotlib]()||
 |2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
-|2021-05-28|[Data Visualization with Matplotlib]()||
-|2021-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
+|2021-05-28|[Web Scraping with Requests and BeautifulSoup4]()||
+|2021-06-04|[]()||
 |2021-06-11|No Class, Reading period|[Homework 6]()|
 |2021-06-18|[Final]()||
 |2021-06-25|No Class||
