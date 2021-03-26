@@ -56,7 +56,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-03-05|[Getting Started with Python](slides/01-getting-started-with-python.slides.html)||
 |2021-03-12|[Data Structures in Python](slides/02-data-structures-in-python.slides.html)||
 |2021-03-19|[Flow of Control in Python](slides/03-flow-of-control-in-python.slides.html)|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-03-26|[Being Functional with Python]()||
+|2021-03-26|[Being Functional with Python](slides/04-being-functional-with-python.slides.html)||
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Being Object-oriented with Python]()||
 |2021-04-16|[Using Modules and Libraries in Python]()|[Homework 3]()|
