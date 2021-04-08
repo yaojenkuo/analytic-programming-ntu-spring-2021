@@ -35,6 +35,9 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Grading Policy
 
+- Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
+- If you did not submit your `.ipynb` to CEIBA in time, kindly send your `.ipynb` to our TA 毓倩 <r09724032@ntu.edu.tw>.
+
 |Task|Percentage|
 |----|----------|
 |[Midterm]()|15%|
@@ -58,11 +61,11 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-03-19|[Flow of Control in Python](slides/03-flow-of-control-in-python.slides.html)|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-03-26|[Being Functional with Python](slides/04-being-functional-with-python.slides.html)||
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-04-09|[Being Object-oriented with Python]()||
+|2021-04-09|[Being Object-oriented with Python](slides/05-being-object-oriented-with-python.slides.html)||
 |2021-04-16|[Using Modules and Libraries in Python]()|[Homework 3]()|
 |2021-04-23|[Midterm]()||
-|2021-04-30|[Array Computing with NumPy]()|[Homework 4]()|
-|2021-05-07|[DataFrame Wrangling with Pandas]()||
+|2021-04-30|[Array Computing with NumPy]()||
+|2021-05-07|[DataFrame Wrangling with Pandas]()|[Homework 4]()|
 |2021-05-14|[Data Visualization with Matplotlib]()||
 |2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
 |2021-05-28|[DataFrame Wrangling with Pandas]()||
