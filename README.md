@@ -44,7 +44,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |[Final]()|25%|
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 3]()|10%|
+|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 4]()|10%|
 |[Homework 5]()|10%|
 |[Homework 6]()|10%|
@@ -62,7 +62,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-03-26|[Being Functional with Python](slides/04-being-functional-with-python.slides.html)||
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Being Object-oriented with Python](slides/05-being-object-oriented-with-python.slides.html)||
-|2021-04-16|[Using Modules and Libraries in Python]()|[Homework 3]()|
+|2021-04-16|[Using Modules and Libraries in Python]()|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm]()||
 |2021-04-30|[Array Computing with NumPy]()||
 |2021-05-07|[DataFrame Wrangling with Pandas]()|[Homework 4]()|
