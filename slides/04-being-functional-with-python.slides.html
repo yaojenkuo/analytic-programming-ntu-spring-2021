@@ -15574,8 +15574,8 @@ absolute(x)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>[50, 47, 10, 42, 23, 56, 10, 94, 43, 52, 95, 24, 49, 2, 51, 81, 62, 7, 39, 32]
-[47, 23, 43, 95, 49, 51, 81, 7, 39]
+<pre>[40, 63, 95, 49, 97, 38, 4, 85, 86, 12, 59, 82, 4, 94, 87, 76, 60, 63, 10, 29]
+[63, 95, 49, 97, 85, 59, 87, 63, 29]
 </pre>
 </div>
 </div>
@@ -15618,8 +15618,8 @@ absolute(x)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>[33, 38, 38, 87, 8, 21, 23, 28, 88, 34, 15, 45, 70, 36, 5, 88, 9, 10, 64, 47]
-[True, False, False, True, False, True, True, False, False, False, True, True, False, False, True, False, True, False, False, True]
+<pre>[34, 60, 18, 29, 22, 97, 21, 19, 10, 20, 14, 79, 24, 69, 81, 36, 66, 4, 78, 99]
+[False, False, False, True, False, True, True, True, False, False, False, True, False, True, True, False, False, False, False, True]
 </pre>
 </div>
 </div>
@@ -15769,7 +15769,7 @@ absolute(x)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>&lt;generator object &lt;genexpr&gt; at 0x7f8e32d36430&gt;
+<pre>&lt;generator object &lt;genexpr&gt; at 0x7faea5d08d60&gt;
 &lt;class &#39;generator&#39;&gt;
 </pre>
 </div>
@@ -15955,7 +15955,7 @@ class enumerate(object)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>&lt;enumerate object at 0x7f8e32d1d800&gt;
+<pre>&lt;enumerate object at 0x7faea5d2cdc0&gt;
 [(0, &#39;The Avengers&#39;), (1, &#39;Avengers: Age of Ultron&#39;), (2, &#39;Avengers: Infinity War&#39;), (3, &#39;Avengers: Endgame&#39;)]
 </pre>
 </div>
@@ -16061,7 +16061,7 @@ class zip(object)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>&lt;zip object at 0x7f8e32d1db40&gt;
+<pre>&lt;zip object at 0x7faea5d2ca00&gt;
 [(2012, &#39;The Avengers&#39;), (2015, &#39;Avengers: Age of Ultron&#39;), (2018, &#39;Avengers: Infinity War&#39;), (2019, &#39;Avengers: Endgame&#39;)]
 </pre>
 </div>
@@ -16160,7 +16160,7 @@ class map(object)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>&lt;map object at 0x7f8e32d41220&gt;
+<pre>&lt;map object at 0x7faea5c96a30&gt;
 [0.0, 1.0, 2.0, 3.0, 4.0, 5.0, 6.0, 7.0, 8.0, 9.0]
 </pre>
 </div>
@@ -16261,9 +16261,9 @@ class filter(object)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>[False, True, True, False, True, False, False, False, False, False, True, False, False, True, False, True, False, True, False, True]
-&lt;filter object at 0x7f8e32d41df0&gt;
-[True, True, True, True, True, True, True, True]
+<pre>[False, False, True, False, True, True, False, False, True, False, False, True, True, False, False, True, True, True, False, True]
+&lt;filter object at 0x7faea5c6c220&gt;
+[True, True, True, True, True, True, True, True, True, True]
 </pre>
 </div>
 </div>
@@ -16275,11 +16275,7 @@ class filter(object)
 </div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Besides-built-in-functions,-it-is-more-common-to-define-a-lambda-expression-with-map-and-filter">Besides built-in functions, it is more common to define a lambda expression with <code>map</code> and <code>filter</code><a class="anchor-link" href="#Besides-built-in-functions,-it-is-more-common-to-define-a-lambda-expression-with-map-and-filter">&#182;</a></h2><ul>
-<li>A lambda expression is like an anonymous function</li>
-<li>We can define a lambda expression, use it, then ditch it all in the same line</li>
-</ul>
-
+<h2 id="Besides-built-in-functions,-it-is-A-LOT-more-common-to-define-our-own-functions">Besides built-in functions, it is A LOT more common to define our own functions<a class="anchor-link" href="#Besides-built-in-functions,-it-is-A-LOT-more-common-to-define-our-own-functions">&#182;</a></h2>
 </div>
 </div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
@@ -16287,9 +16283,12 @@ class filter(object)
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[36]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="n">primes</span> <span class="o">=</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">11</span><span class="p">,</span> <span class="mi">13</span><span class="p">,</span> <span class="mi">17</span><span class="p">,</span> <span class="mi">19</span><span class="p">,</span> <span class="mi">23</span><span class="p">,</span> <span class="mi">29</span><span class="p">]</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">filter</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span> <span class="o">&gt;=</span> <span class="mi">10</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">squared</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span>
+<span class="k">def</span> <span class="nf">larger_than_ten</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
+    <span class="k">return</span> <span class="n">x</span><span class="o">&gt;=</span><span class="mi">10</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="n">squared</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">filter</span><span class="p">(</span><span class="n">larger_than_ten</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
 </pre></div>
 
      </div>
@@ -16309,8 +16308,8 @@ class filter(object)
 
 
 <div class="jp-RenderedText jp-OutputArea-output" data-mime-type="text/plain">
-<pre>[4, 9, 25, 49, 121, 169, 289, 361, 529, 841]
-[11, 13, 17, 19, 23, 29]
+<pre>[4, 9, 25, 49, 121]
+[11]
 </pre>
 </div>
 </div>
@@ -16322,20 +16321,21 @@ class filter(object)
 </div></section><section>
 <div class="jp-Cell-inputWrapper"><div class="jp-InputPrompt jp-InputArea-prompt">
 </div><div class="jp-RenderedHTMLCommon jp-RenderedMarkdown jp-MarkdownOutput " data-mime-type="text/markdown">
-<h2 id="Then-we-do-not-have-to-waste-two-function-names-on-such-easy-operations">Then we do not have to waste two function names on such easy operations<a class="anchor-link" href="#Then-we-do-not-have-to-waste-two-function-names-on-such-easy-operations">&#182;</a></h2>
+<h2 id="It-is-more-convenient-to-define-a-disposable-function-with-lambda-expression-with-map-and-filter">It is more convenient to define a disposable function with lambda expression with <code>map</code> and <code>filter</code><a class="anchor-link" href="#It-is-more-convenient-to-define-a-disposable-function-with-lambda-expression-with-map-and-filter">&#182;</a></h2><ul>
+<li>A lambda expression is like an anonymous function</li>
+<li>We can define a lambda expression, use it, then ditch it all in the same line</li>
+</ul>
+
 </div>
-</div><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
+</div></section><section><div class="jp-Cell jp-CodeCell jp-Notebook-cell   ">
 <div class="jp-Cell-inputWrapper">
 <div class="jp-InputArea jp-Cell-inputArea">
 <div class="jp-InputPrompt jp-InputArea-prompt">In&nbsp;[37]:</div>
 <div class="jp-CodeMirrorEditor jp-Editor jp-InputArea-editor" data-type="inline">
      <div class="CodeMirror cm-s-jupyter">
-<div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">squared</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-    <span class="k">return</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span>
-<span class="k">def</span> <span class="nf">larger_than_ten</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
-    <span class="k">return</span> <span class="n">x</span><span class="o">&gt;=</span><span class="mi">10</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="n">squared</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
-<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">filter</span><span class="p">(</span><span class="n">larger_than_ten</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>
+<div class=" highlight hl-ipython3"><pre><span></span><span class="n">primes</span> <span class="o">=</span> <span class="p">[</span><span class="mi">2</span><span class="p">,</span> <span class="mi">3</span><span class="p">,</span> <span class="mi">5</span><span class="p">,</span> <span class="mi">7</span><span class="p">,</span> <span class="mi">11</span><span class="p">,</span> <span class="mi">13</span><span class="p">,</span> <span class="mi">17</span><span class="p">,</span> <span class="mi">19</span><span class="p">,</span> <span class="mi">23</span><span class="p">,</span> <span class="mi">29</span><span class="p">]</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">map</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span><span class="o">**</span><span class="mi">2</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>        <span class="c1"># so we don&#39;t waste a function name for an easy operation</span>
+<span class="nb">print</span><span class="p">(</span><span class="nb">list</span><span class="p">(</span><span class="nb">filter</span><span class="p">(</span><span class="k">lambda</span> <span class="n">x</span><span class="p">:</span> <span class="n">x</span> <span class="o">&gt;=</span> <span class="mi">10</span><span class="p">,</span> <span class="n">primes</span><span class="p">)))</span>  <span class="c1"># so we don&#39;t waste a function name for an easy operation</span>
 </pre></div>
 
      </div>
@@ -16444,7 +16444,7 @@ reduce(...)
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">summing_numeric_values</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
     <span class="n">summation</span> <span class="o">=</span> <span class="mi">0</span>
-    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">primes</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">x</span><span class="p">:</span>
         <span class="n">summation</span> <span class="o">+=</span> <span class="n">p</span>
     <span class="k">return</span> <span class="n">summation</span>
 
@@ -16534,7 +16534,7 @@ reduce(...)
      <div class="CodeMirror cm-s-jupyter">
 <div class=" highlight hl-ipython3"><pre><span></span><span class="k">def</span> <span class="nf">multiplying_numeric_values</span><span class="p">(</span><span class="n">x</span><span class="p">):</span>
     <span class="n">product</span> <span class="o">=</span> <span class="mi">1</span>
-    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">primes</span><span class="p">:</span>
+    <span class="k">for</span> <span class="n">p</span> <span class="ow">in</span> <span class="n">x</span><span class="p">:</span>
         <span class="n">product</span> <span class="o">*=</span> <span class="n">p</span>
     <span class="k">return</span> <span class="n">product</span>
 
