@@ -8,8 +8,9 @@
 - Semester: Spring, 2021
 - Instructor: Kuo, Yao-Jen <yaojenkuo@ntu.edu.tw>
 
-About me: <https://www.datainpoint.com/>
+About me: <https://www.datainpoint.com>
 
+<!--
 ## Additional Registration Policy
 
 Due to resourse constraint and limited experience, we accept limited additional registrations and the priority would be:
@@ -19,35 +20,48 @@ Due to resourse constraint and limited experience, we accept limited additional 
 3. Others.
 
 We will probably rely on Python's `random` module to draw if there are too many additional registrations within higher priorities. Auditing is welcomed, however there will be no credits, homeworks, nor exams.
+-->
 
 ## Logistics
 
-- Contact me: <yaojenkuo@ntu.edu.tw>
+- Contact me: 耀仁 <yaojenkuo@ntu.edu.tw>
+- Contact TA: 毓倩 <r09724032@ntu.edu.tw>
 - Schedule: Friday, 09:10-12:10
 - Location: 博雅 302
 
+<!--
 ## Environments
 
 - Homeworks and exams will be distributed via [JupyterHub](https://jupyter.org/hub) and [nbgitpuller](https://github.com/jupyterhub/nbgitpuller).
-- Lectures will be delivered via non-persistent [Binder](https://mybinder.org/) or [Google Colab](https://colab.research.google.com/).
+- Lectures will be delivered via non-persistent [Binder](https://mybinder.org/).
 
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/yaojenkuo/analytic-programming-ntu-spring-2021/HEAD)
+-->
 
 ## Grading Policy
 
+- Submit your `.ipynb` to CEIBA in time to avoid penalty.
 - Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
-- If you did not submit your `.ipynb` to CEIBA in time, kindly send your `.ipynb` to our TA 毓倩 <r09724032@ntu.edu.tw>.
 
 |Task|Percentage|
 |----|----------|
-|[Midterm]()|15%|
-|[Final]()|25%|
+|Midterm|15%|
+|Final|25%|
 |[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
 |[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|10%|
-|[Homework 4]()|10%|
-|[Homework 5]()|10%|
-|[Homework 6]()|10%|
+|Homework 4|10%|
+|Homework 5|10%|
+|Homework 6|10%|
+
+## Upcoming deadlines
+
+- 2021-04-16 20:59:59 Homework 3 submission.
+- 2021-04-19 20:59:59 Homework 1 late submission.
+- 2021-04-19 20:59:59 Homework 2 late submission.
+- 2021-04-19 20:59:59 Homework 3 late submission.
+- 2021-04-23 11:59:59 Midterm A submission.
+- 2021-04-24 11:59:59 Midterm B submission.
 
 ## Calendar
 
@@ -63,15 +77,15 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-04-02|No Class, Children's Day|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-09|[Being Object-oriented with Python](slides/05-being-object-oriented-with-python.slides.html)||
 |2021-04-16|[Modules and Libraries in Python](slides/06-modules-and-libraries-in-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-04-23|[Midterm]()||
-|2021-04-30|[Array Computing with NumPy]()||
-|2021-05-07|[DataFrame Wrangling with Pandas]()|[Homework 4]()|
-|2021-05-14|[Data Visualization with Matplotlib]()||
-|2021-05-21|[DataFrame Wrangling with Pandas]()|[Homework 5]()|
-|2021-05-28|[DataFrame Wrangling with Pandas]()||
-|2021-06-04|[Web Scraping with Requests and BeautifulSoup4]()||
-|2021-06-11|No Class, Reading period|[Homework 6]()|
-|2021-06-18|[Final]()||
+|2021-04-23|Midterm||
+|2021-04-30|Array Computing with NumPy||
+|2021-05-07|DataFrame Wrangling with Pandas|Homework 4|
+|2021-05-14|DataFrame Wrangling with Pandas||
+|2021-05-21|DataFrame Visualization with Matplotlib|Homework 5|
+|2021-05-28|Web Scraping with Requests and BeautifulSoup4||
+|2021-06-04|TBD||
+|2021-06-11|No Class, Reading period|Homework 6|
+|2021-06-18|Final||
 |2021-06-25|No Class||
 
 How to transform `slides.html` to PDF format?
