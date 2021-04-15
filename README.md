@@ -40,7 +40,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Grading Policy
 
-- Submit your `.ipynb` to CEIBA in time to avoid penalty.
+- Submit your `.ipynb` to CEIBA <https://ceiba.ntu.edu.tw/index.php> in time to avoid penalty.
 - Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
 
 |Task|Percentage|
