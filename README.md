@@ -56,12 +56,14 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Upcoming deadlines
 
+<!--
 - 2021-04-16 20:59:59 Homework 3 submission.
 - 2021-04-19 20:59:59 Homework 1 late submission.
 - 2021-04-19 20:59:59 Homework 2 late submission.
 - 2021-04-19 20:59:59 Homework 3 late submission.
-- 2021-04-23 11:59:59 Midterm A submission.
-- 2021-04-24 11:59:59 Midterm B submission.
+-->
+- 2021-04-23 08:29:29 - 11:59:59 Midterm A.
+- 2021-04-24 08:29:29 - 11:59:59 Midterm B.
 
 ## Calendar
 
