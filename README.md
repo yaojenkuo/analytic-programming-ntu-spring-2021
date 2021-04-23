@@ -62,8 +62,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-04-19 20:59:59 Homework 2 late submission.
 - 2021-04-19 20:59:59 Homework 3 late submission.
 -->
-- 2021-04-23 08:29:29 - 11:59:59 [Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
-- 2021-04-24 08:29:29 - 11:59:59 Midterm B.
+- 2021-04-23 08:29:29 - 12:59:59 [Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
+- 2021-04-24 08:29:29 - 12:59:59 Midterm B.
 
 ## Calendar
 
