@@ -56,8 +56,8 @@ We will probably rely on Python's `random` module to draw if there are too many 
 
 ## Upcoming deadlines
 
+- 2021-05-07 20:59:59 Homework 4 submission.
 <!--
-- 2021-04-16 20:59:59 Homework 3 submission.
 - 2021-04-19 20:59:59 Homework 1 late submission.
 - 2021-04-19 20:59:59 Homework 2 late submission.
 - 2021-04-19 20:59:59 Homework 3 late submission.
