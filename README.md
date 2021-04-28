@@ -43,16 +43,16 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - Submit your `.ipynb` to CEIBA <https://ceiba.ntu.edu.tw/index.php> in time to avoid penalty.
 - Late submission applies a 80% penalty on your score, starting from Homework 2 and it also applies to Midterm/Final.
 
-|Task||Percentage|
-|----|-|----------|
-|[Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|[Midterm B](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-b-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-b-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|15%|
-|Final||25%|
-|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|
-|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|
-|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|
-|Homework 4||10%|
-|Homework 5||10%|
-|Homework 6||10%|
+|Task||Percentage|Penalty|
+|----|-|----------|------|
+|[Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|[Midterm B](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-b-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-b-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)|15%|0.8|
+|Final||25%|0.6|
+|[Homework 1](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw1-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw1-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|1|
+|[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
+|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
+|Homework 4||10%|0.6|
+|Homework 5||10%|0.6|
+|Homework 6||10%|0.6|
 
 ## Upcoming deadlines
 
@@ -61,9 +61,9 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-04-19 20:59:59 Homework 1 late submission.
 - 2021-04-19 20:59:59 Homework 2 late submission.
 - 2021-04-19 20:59:59 Homework 3 late submission.
--->
 - 2021-04-23 08:29:29 - 12:59:59 [Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
 - 2021-04-24 08:29:29 - 12:59:59 [Midterm B](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-b-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-b-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main).
+-->
 
 ## Calendar
 
@@ -81,10 +81,10 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-04-16|[Modules and Libraries in Python](slides/06-modules-and-libraries-in-python.slides.html)|[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-04-23|[Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
 |2021-04-24|[Midterm B](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-b-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-b-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
-|2021-04-30|Array Computing with NumPy||
+|2021-04-30|[Array Computing with NumPy](slides/07-array-computing-with-numpy.slides.html)||
 |2021-05-07|DataFrame Wrangling with Pandas|Homework 4|
 |2021-05-14|DataFrame Wrangling with Pandas||
-|2021-05-21|DataFrame Visualization with Matplotlib|Homework 5|
+|2021-05-21|Data Visualization with Matplotlib|Homework 5|
 |2021-05-28|Web Scraping with Requests and BeautifulSoup4||
 |2021-06-04|TBD||
 |2021-06-11|No Class, Reading period|Homework 6|
