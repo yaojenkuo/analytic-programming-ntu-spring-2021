@@ -61,7 +61,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-05-07 20:59:59 Homework 4 submission.
 - 2021-05-21 20:59:59 Homework 5 submission.
 - 2021-06-11 20:59:59 Homework 6 submission.
-- 2021-06-18 08:59:59 - 14:59:59 Final.
+- 2021-06-18 07:59:59 - 13:59:59 Final.
 - 2021-06-25 23:59:59 End of semester.
 
 <!--
