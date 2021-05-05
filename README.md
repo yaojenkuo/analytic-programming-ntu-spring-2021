@@ -81,8 +81,8 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-04-23|[Midterm A](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-a-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-a-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
 |2021-04-24|[Midterm B](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fmidterm-b-analytic-programming-ntu-spring-2021&urlpath=tree%2Fmidterm-b-analytic-programming-ntu-spring-2021%2Fmidterm.ipynb&branch=main)||
 |2021-04-30|[Array Computing with NumPy](slides/07-array-computing-with-numpy.slides.html)||
-|2021-05-07|DataFrame Wrangling with Pandas|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
-|2021-05-14|DataFrame Wrangling with Pandas||
+|2021-05-07|[DataFrame Wrangling with Pandas](slides/08-dataframe-wrangling-with-pandas.slides.html)|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
+|2021-05-14|[DataFrame Wrangling with Pandas](slides/08-dataframe-wrangling-with-pandas.slides.html)||
 |2021-05-21|Data Visualization with Matplotlib|Homework 5|
 |2021-05-28|Web Scraping with Requests and BeautifulSoup4||
 |2021-06-04|TBD||
