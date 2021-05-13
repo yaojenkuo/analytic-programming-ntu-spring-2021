@@ -53,13 +53,13 @@ We will probably rely on Python's `random` module to draw if there are too many 
 |[Homework 2](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw2-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw2-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
 |[Homework 3](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw3-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw3-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.8|
 |[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.6|
-|Homework 5||10%|0.6|
+|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw5-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)||10%|0.6|
 |Homework 6||10%|0.6|
 
 ## Upcoming deadlines
 
 - 2021-05-07 20:59:59 [Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
-- 2021-05-21 20:59:59 Homework 5 submission.
+- 2021-05-21 20:59:59 [Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw5-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
 - 2021-06-11 20:59:59 Homework 6 submission.
 - 2021-06-18 07:59:59 - 13:59:59 Final.
 - 2021-06-25 23:59:59 End of semester.
@@ -83,7 +83,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-04-30|[Array Computing with NumPy](slides/07-array-computing-with-numpy.slides.html)||
 |2021-05-07|[DataFrame Wrangling with Pandas](slides/08-dataframe-wrangling-with-pandas.slides.html)|[Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-14|[DataFrame Wrangling with Pandas](slides/08-dataframe-wrangling-with-pandas.slides.html)||
-|2021-05-21|Data Visualization with Matplotlib|Homework 5|
+|2021-05-21|Data Visualization with Matplotlib|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw5-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-28|Web Scraping with Requests and BeautifulSoup4||
 |2021-06-04|TBD||
 |2021-06-11|No Class, Reading period|Homework 6|
