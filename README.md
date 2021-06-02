@@ -85,7 +85,7 @@ Course video playlist: <https://youtube.com/playlist?list=PLEq7iw5uOtuWxDsJNA6Ks
 |2021-05-14|[DataFrame Wrangling with Pandas](slides/08-dataframe-wrangling-with-pandas.slides.html)||
 |2021-05-21|[Data Visualization with Matplotlib](slides/09-data-visualization-with-matplotlib.slides.html)|[Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw5-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-05-28|[Web Scraping with Python](slides/10-web-scraping-with-python.slides.html)||
-|2021-06-04|TBD||
+|2021-06-04|[Pandas Project: Taiwan Election 2020](slides/11-project-taiwan-election-2020.slides.html)||
 |2021-06-11|No Class, Reading period|[Homework 6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw6-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw6-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main)|
 |2021-06-18|Final||
 |2021-06-25|No Class||
