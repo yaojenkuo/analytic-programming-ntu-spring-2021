@@ -61,7 +61,7 @@ We will probably rely on Python's `random` module to draw if there are too many 
 - 2021-05-07 20:59:59 [Homework 4](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw4-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw4-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
 - 2021-05-21 20:59:59 [Homework 5](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw5-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw5-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
 - 2021-06-11 20:59:59 [Homework 6](https://lab.datainpoint.com/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fdatainpoint%2Fhw6-analytic-programming-ntu-spring-2021&urlpath=tree%2Fhw6-analytic-programming-ntu-spring-2021%2Fexercises.ipynb&branch=main) submission.
-- 2021-06-18 07:59:59 - 13:59:59 Final.
+- 2021-06-18 09:00:00 - 20:59:59 Final.
 - 2021-06-25 23:59:59 End of semester.
 
 ## Calendar
